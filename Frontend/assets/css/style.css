@@ -1,0 +1,40 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css");
+
+body {
+    overflow-x: hidden;
+}
+
+.bg-success-dark {
+    background-color: #1F3D0C;
+}
+
+.btn-usuario {
+    border-radius: 5em;
+}
+
+.bg-indigo {
+    background-color: #6610f2;
+}
+
+#form-div {
+     border: solid 2px #6610f2;
+     border-radius: 4em;
+     padding: 3em;
+}
+
+.listagem-usuarios {
+    margin-top: 5em;
+}
+
+.card {
+    float: left;
+    margin: 2em 30px 30px 30px;
+}
+
+.seta {
+    color: #121212
+}
+
+.btn:focus{
+    box-shadow:none !important;
+  }
